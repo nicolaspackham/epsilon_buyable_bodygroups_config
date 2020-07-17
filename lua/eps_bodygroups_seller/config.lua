@@ -3,7 +3,7 @@ EPS_Bodygroup_Buy = {
 
     PrefixColor = Color(255,0,0),
 
-    Models = {"models/player/squares/501st/medic/501st_medic.mdl"},
+    Models = {"models/player/squares/501st/jet/501st_jet.mdl"},
 
     UseCommand = true,
     Command = "!bodygroup",
